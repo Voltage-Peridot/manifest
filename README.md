@@ -4,7 +4,7 @@
 
 ### Sync ###
 ```bash
-        repo init -u https://github.com/VoltageOS/manifest.git -b 15-qpr2 --git-lfs
+        repo init -u https://github.com/Voltage-Peridot/manifest.git -b 15-qpr2 --git-lfs
         repo sync
 ```
 
