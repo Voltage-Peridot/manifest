@@ -222,6 +222,6 @@
   <project path="vendor/support" name="vendor_support" remote="vos" revision="15-qpr2" />
   <project path="vendor/SystemUIClocks" name="vendor_SystemUIClocks" remote="vos" revision="15-qpr2" />
   <project path="vendor/voltage-priv/keys" name="vendor_voltage-priv_keys" remote="vos2" revision="15-qpr2" />
-  <project path="vendor/voltage" name="vendor_voltage" remote="vos" revision="15-qpr2" />
+  <project path="vendor/voltage" name="vendor_voltage" remote="vos2" revision="15-qpr2" />
 
 </manifest>
