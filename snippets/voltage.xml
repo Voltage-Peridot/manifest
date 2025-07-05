@@ -63,7 +63,7 @@
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="vos" revision="15-qpr2" />
 
   <!-- Framework -->
-  <project path="frameworks/av" name="frameworks_av" remote="vos" revision="15-qpr2" />
+  <project path="frameworks/av" name="frameworks_av" remote="vos2" revision="15-qpr2" />
   <project path="frameworks/base" name="frameworks_base_new" remote="vos" revision="15-qpr2" />
   <project path="frameworks/libs/modules-utils" name="frameworks_libs_modules-utils" remote="vos" revision="15-qpr2" />
   <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" remote="vos" revision="15-qpr2" />
