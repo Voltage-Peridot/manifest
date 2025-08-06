@@ -119,7 +119,7 @@
   <project path="hardware/qcom-caf/sm8650/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr-sm8650" remote="yaap" />
   <project path="hardware/qcom-caf/sm8650/display" name="hardware_qcom-caf_sm8650_display" remote="yaap" />
   <project path="hardware/qcom-caf/sm8650/media" name="hardware_qcom-caf_sm8650_media" remote="yaap" />
-  <!--project path="hardware/qcom-caf/thermal" name="hardware_qcom_thermal" remote="yaap" /-->
+  <project path="hardware/qcom-caf/thermal" name="hardware_qcom_thermal" remote="yaap" />
 
   <!-- Hardware Pixel -->
   <project path="hardware/google/gchips" name="hardware_google_gchips" remote="vos" revision="15-qpr2" />
