@@ -64,7 +64,7 @@
 
   <!-- Framework -->
   <project path="frameworks/av" name="frameworks_av" remote="vos2" revision="15-qpr2" />
-  <project path="frameworks/base" name="frameworks_base_new" remote="vos" revision="15-qpr2" />
+  <project path="frameworks/base" name="frameworks_base_new" remote="vos2" revision="15-qpr2" />
   <project path="frameworks/libs/modules-utils" name="frameworks_libs_modules-utils" remote="vos" revision="15-qpr2" />
   <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" remote="vos" revision="15-qpr2" />
   <project path="frameworks/native" name="frameworks_native" remote="vos" revision="15-qpr2" />
@@ -157,7 +157,7 @@
   <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="gitlab" />
   <project path="packages/apps/Powerhub" name="packages_apps_Powerhub" remote="vos" revision="15-qpr2" />
   <project path="packages/apps/Seedvault" name="packages_apps_Seedvault" remote="vos" revision="15-qpr2" /> 
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vos" revision="15-qpr2" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vos2" revision="15-qpr2" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="vos" revision="15-qpr2" />
   <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="vos" revision="15-qpr2" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="vos" revision="15-qpr2" />
