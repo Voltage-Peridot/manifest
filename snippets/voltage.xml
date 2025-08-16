@@ -144,7 +144,7 @@
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="vos" revision="15-qpr2" />
   <project path="packages/apps/EmergencyInfo" name="packages_apps_EmergencyInfo" remote="vos" revision="15-qpr2" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="vos" revision="15-qpr2" />
-  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="vos" revision="15-qpr2" />
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="vos2" revision="15-qpr2" />
   <project path="packages/apps/Glimpse" name="packages_apps_Glimpse" remote="vos" revision="15-qpr2" />
   <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="vos" revision="15-qpr2" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="vos" revision="15-qpr2" />
