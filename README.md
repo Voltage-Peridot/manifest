@@ -4,7 +4,7 @@
 
 ### Sync ###
 ```bash
-        repo init -u https://github.com/VoltageOS/manifest.git -b 16 --git-lfs
+        repo init -u https://github.com/Voltage-peridot/manifest.git -b 161 --git-lfs --depth=1
         repo sync
 ```
 
