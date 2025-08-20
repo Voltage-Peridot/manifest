@@ -20,14 +20,6 @@
            remote="aosp"
            sync-j="4" />
 
-  <remote  name="yaap"
-           fetch="https://github.com/yaap"
-           revision="sixteen" />
-
-  <remote  name="vos2"
-           fetch="https://github.com/voltage-peridot"
-           revision="161" />
-
   <superproject name="platform/superproject" remote="aosp" revision="android-16.0.0_r2"/>
   <contactinfo bugurl="go/repo-bug" />
 

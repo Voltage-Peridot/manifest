@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="yaap"
+           fetch="https://github.com/yaap"
+           revision="refs/heads/sixteen"
+           sync-c="true"
+           sync-j="4" />
+
+  <remote  name="vos2"
+           fetch="https://github.com/voltage-peridot"
+           revision="refs/heads/16"
+           sync-c="true"
+           sync-j="4" />
+
   <!-- Build -->
   <project path="build/blueprint" name="build_blueprint" remote="vos" revision="16" />
   <project path="build/make" name="build" remote="vos" revision="16" >
@@ -161,8 +173,8 @@
   <project path="system/librustutils" name="system_librustutils" remote="vos" revision="16" />
   <project path="system/media" name="system_media" remote="vos" revision="16" />
   <project path="system/netd" name="system_netd" remote="vos" revision="16" />
-  <project path="system/security" name="system_security" remote="vos2" revision="16" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="vos" revision="16" />
+  <project path="system/security" name="system_security" remote="vos" revision="16" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="vos2" revision="16" />
   <project path="system/tools/mkbootimg" name="system_tools_mkbootimg" remote="vos" revision="16" />
   <project path="system/update_engine" name="system_update_engine" remote="vos" revision="16" />
   <project path="system/vold" name="system_vold" remote="vos" revision="16" />
