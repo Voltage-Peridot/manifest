@@ -40,7 +40,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="vos" revision="16" />
   <project path="device/qcom/sepolicy_vndr/legacy-um" name="device_qcom_sepolicy_vndr_legacy-um" remote="vos" revision="16" />
   <project path="device/voltage/sepolicy" name="device_voltage_sepolicy" remote="vos" revision="16" />
-  <project path="device/qcom/sepolicy_vndr/sm8650" name="device_qcom_sepolicy_vndr_sm8650" remote="yaap" revision="sixteen" />
+  <project path="device/qcom/sepolicy_vndr/sm8650" name="device_qcom_sepolicy_vndr_sm8650" remote="vos2" revision="16" />
 
   <!-- External -->
   <project path="external/AppCompatConfig" name="external_AppCompatConfig" remote="vos" revision="16" />
