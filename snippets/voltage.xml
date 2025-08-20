@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="yaap"
-           fetch="https://github.com/yaap"
-           revision="sixteen" />
-
-  <remote  name="vos2"
-           fetch="https://github.com/voltage-peridot"
-           revision="161" />
-
   <!-- Build -->
   <project path="build/blueprint" name="build_blueprint" remote="vos" revision="16" />
   <project path="build/make" name="build" remote="vos" revision="16" >
